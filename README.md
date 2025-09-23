@@ -1,3 +1,5 @@
+# At the moment this version doesn't work. Once I will have time, I will update this. Thanks for the patience!
+
 # What is this?
 This is an improved version with UI added by me of https://github.com/SpartanB312/Grunt, credit of Grunt goes to @SpartanB312 on GitHub.​
 
